@@ -1,10 +1,10 @@
-Bike Riding Project Analysis
+# Bike Riding Project Analysis
 
-Welcome to the Bike Riding Project Analysis! This repository contains insights and data analysis conducted on bike riding patterns and metrics using Microsoft Excel. The project aims to identify trends, improve decision-making, and enhance the overall understanding of biking habits.
+## Welcome to the Bike Riding Project Analysis! This repository contains insights and data analysis conducted on bike riding patterns and metrics using Microsoft Excel. The project aims to identify trends, improve decision-making, and enhance the overall understanding of biking habits.
 
-Project Overview
+# Project Overview
 
-This project focuses on analyzing bike riding data to:
+## This project focuses on analyzing bike riding data to:
 
 Uncover patterns and trends in bike usage.
 
@@ -14,15 +14,15 @@ Evaluate peak riding times and popular routes.
 
 Provide actionable insights for bike-sharing services, urban planners, and cycling enthusiasts.
 
-Key Features
+# Key Features
 
-Comprehensive Data Analysis: Organized and detailed examination of bike usage metrics.
+## Comprehensive Data Analysis: Organized and detailed examination of bike usage metrics.
 
-Visualization: Clear and interactive charts and graphs.
+## Visualization: Clear and interactive charts and graphs.
 
-Actionable Insights: Summarized findings for quick understanding.
+## Actionable Insights: Summarized findings for quick understanding.
 
-Tools Used
+# Tools Used
 
 Microsoft Excel: For data cleaning, analysis, and visualization.
 
@@ -48,15 +48,15 @@ View the Analysis: Open Bike Analysis.xlsx to explore the findings and visualiza
 
 Modify and Experiment: Use Excel tools to add new metrics or customize the analysis.
 
-Example Insights
+# Example Insights
 
-The busiest hours for bike rides are between 7 AM - 9 AM and 5 PM - 7 PM.
+Males have involved more in buying bikes than female.
 
-Weekend rides are longer on average compared to weekdays.
+Males have a high income compared to female make them easier to attain bikes.
 
-Popular routes include city parks and downtown areas.
+Average Commute miles is between 2 to 5 miles for all males and female.
 
-Future Scope
+# Future Scope
 
 Integration with real-time data for dynamic analysis.
 
@@ -64,11 +64,16 @@ Expansion to include weather and geographic factors.
 
 Automation of reports using Excel VBA or other tools.
 
+Dashboard
+
+![Bike Sales Dashboard](https://github.com/user-attachments/assets/7be8da01-9fec-4d62-a7de-a558337e35d9)
+
+
 Contributing
 
 Contributions are welcome! Please fork the repository, make changes, and submit a pull request.
 
-Contact
+# Contact
 
 For any questions or feedback, feel free to reach out:
 

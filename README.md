@@ -70,7 +70,8 @@ Automation of reports using Excel VBA or other tools.
 
 Dashboard
 
-![Bike Sales Dashboard](https://github.com/user-attachments/assets/7be8da01-9fec-4d62-a7de-a558337e35d9)
+![Bike Sales Dashboard](https://github.com/user-attachments/assets/286a5c3d-10e5-4c5a-af0e-88c25c7d65f5)
+
 
 
 Contributing
